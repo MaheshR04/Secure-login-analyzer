@@ -28,7 +28,7 @@ to prevent unauthorized access.
 ## 📂 Project Running method 
 cd backend
 pip install -r requirements.txt
-run = python app.py
+run = python run.py
 
 cd frontend 
 run=npm run dev
